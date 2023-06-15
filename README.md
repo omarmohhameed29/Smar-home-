@@ -1,4 +1,4 @@
-# Smar-home-
+# Smart-home-
 In this project we made smart home with Arduino 
 Components:
 -Arduino uno
